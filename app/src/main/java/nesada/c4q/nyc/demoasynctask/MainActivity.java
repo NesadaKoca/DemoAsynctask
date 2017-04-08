@@ -15,7 +15,7 @@ import java.net.URL;
 public class MainActivity extends AppCompatActivity {
     EditText num1, num2;
     Button btn;
-    String strURL = "http://www.telusko.com/addition.htm?t1=3&t2=6";
+    String strURL = "http://www.telusko.com/addition.htm?t1=3&t2=6"; // url is supposed to multiply not add
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

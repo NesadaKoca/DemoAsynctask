@@ -16,7 +16,7 @@
         android:layout_alignParentTop ="true"
         android:layout_alignParentLeft ="true"
         android:layout_alignParentStart ="true"
-        android:hint="numb1"/>
+        android:hint="num1"/>
 
     <EditText
         android:layout_width="match_parent"
@@ -29,10 +29,10 @@
         android:hint="num2"/>
 
     <Button
-        android:text="Add"
+        android:text="Multiplication"
         android:id="@+id/btn"
-        android:layout_width="70dp"
-        android:layout_height="50dp"
+        android:layout_width="100dp"
+        android:layout_height="30dp"
         android:layout_below="@id/num2"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="39dp"
